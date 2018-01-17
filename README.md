@@ -1,7 +1,7 @@
 # Twitter Sentiment Analysis
 Demonstration of Twitter sentiment analysis using Spring boot and StanfordCoreNLP.
 
-- http://spring.io
+- https://spring.io
 - https://stanfordnlp.github.io/CoreNLP/
 
 ## Usage
